@@ -5,3 +5,4 @@ Software engineering principles
 
 * **[The Twelve Factors](resources/docs/12factor.md)**
 * **[SOLID](resources/docs/SOLID.md)**
+* **[ACID](resources/docs/ACID.md)**
