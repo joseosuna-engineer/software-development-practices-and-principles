@@ -3,6 +3,8 @@
 # Git Commit Formatting Rules
 > This is a guide to writte a Git commit message.
 
+Extracted from [Chris Beams](https://chris.beams.io/posts/git-commit) and [GitCommitMessages](https://wiki.openstack.org/wiki/GitCommitMessages)
+
 ## Git commit message
 > Build a subject / body Git commit message.
 
