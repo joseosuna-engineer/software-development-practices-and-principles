@@ -16,37 +16,37 @@ Robert C. Martin collected [ten principles](resources/docs/uncle.md) dealing wit
 
 These principles establish practices that lend to developing software with considerations for maintaining and extending as the project grows. Adopting these practices can also contribute to avoiding code smells, refactoring code, and Agile or Adaptive software development. 
 
-The **SOLID** principles can also form a core philosophy for methodologies such as agile development or adaptive software development. <br /> 
+The **SOLID** principles can also form a core philosophy for methodologies such as agile development or adaptive software development. <br /> <br /> 
 
 ## ACID
 
 <img src="resources/images/ACID.PNG" align="left"  width="200" />
 
-[ACID](resources/docs/ACID.md) is a set of properties of database transactions intended to guarantee data validity despite errors, power failures, and other mishaps.
+[ACID](resources/docs/ACID.md) is a set of properties of database transactions intended to guarantee data validity despite errors, power failures, and other mishaps.<br /> 
 
 ## TDD
 
 <img src="resources/images/TDD.PNG" align="left"  width="200" />
 
-[Test-driven development (TDD)](resources/docs/TDD.md) is a software development process relying on software requirements being converted to test cases before software is fully developed, and tracking all software development by repeatedly testing the software against all test cases. American software engineer Kent Beck, who is credited with having developed or "rediscovered" the technique, stated in 2003 that **TDD** encourages simple designs and inspires confidence.
+[Test-driven development (TDD)](resources/docs/TDD.md) is a software development process relying on software requirements being converted to test cases before software is fully developed, and tracking all software development by repeatedly testing the software against all test cases. American software engineer Kent Beck, who is credited with having developed or "rediscovered" the technique, stated in 2003 that **TDD** encourages simple designs and inspires confidence.<br /> 
 
 ## Git Commit Formatting Rules
 
 <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" align="left"  width="200" />
 
-[Git Commit Formatting Rules](resources/docs/commit.md): Why **good commit messages** matter? If you browse the log of any random Git repository, you will probably find its **commit messages** are more or less a mess. A **well-crafted Git commit message** is the best way to communicate context about a change to fellow developers (and indeed to their future selves).
+[Git Commit Formatting Rules](resources/docs/commit.md): Why **good commit messages** matter? If you browse the log of any random Git repository, you will probably find its **commit messages** are more or less a mess. A **well-crafted Git commit message** is the best way to communicate context about a change to fellow developers (and indeed to their future selves).<br /> 
 
 ## Don't repeat yourself (DRY)
 
 <img src="resources/images/DRY.PNG" align="left"  width="200" />
 
-[DRY](resources/docs/DRY.md) is a principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy. The **DRY** principle is stated as "Every piece of knowledge must have a single, unambiguous, authoritative representation within a system".
+[DRY](resources/docs/DRY.md) is a principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy. The **DRY** principle is stated as "Every piece of knowledge must have a single, unambiguous, authoritative representation within a system".<br /> 
 
 ## Keep It Super Simple (KISS)
 
 <img src="resources/images/KISS.PNG" align="left"  width="200" />
 
-[KISS](resources/docs/KISS.md), an acronym for **Keep It Super Simple**, is a design principle noted by the U.S. Navy in 1960. The **KISS** principle states that most systems work best if they are kept simple rather than made complicated; therefore, simplicity should be a key goal in design, and unnecessary complexity should be avoided. <br />
+[KISS](resources/docs/KISS.md), an acronym for **Keep It Super Simple**, is a design principle noted by the U.S. Navy in 1960. The **KISS** principle states that most systems work best if they are kept simple rather than made complicated; therefore, simplicity should be a key goal in design, and unnecessary complexity should be avoided. <br /><br /> <br /> 
 
 ## The Law of Demeter (LoD)
 
