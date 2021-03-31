@@ -72,6 +72,9 @@ All work within the **Scrum framework** should be visible to those responsible f
 
 [Principles of Software Engineering](resources/docs/umn.md) by University of Minnesota. <br /> <br /> <br /> <br /> <br /> 
 
+
+-----------------------------------------
+
 # How to contribute to this project
 
 <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" align="left"  width="200" />
