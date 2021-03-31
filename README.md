@@ -30,7 +30,7 @@ Why good commit messages matter? If you browse the log of any random Git reposit
 
 ## KISS
 
-[KISS](resources/docs/KISS.md), an acronym for keep it simple, Soldier, is a design principle noted by the U.S. Navy in 1960.
+[KISS](resources/docs/KISS.md), an acronym for keep it super simple, is a design principle noted by the U.S. Navy in 1960.
 
 ## The Law of Demeter
 
