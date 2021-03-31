@@ -1,16 +1,7 @@
-# Wikipedia Best coding practices
+# Sir Charles Antony Richard Hoare's Software quality
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Best_coding_practices)
 
-Coding best practices are a set of informal rules that the software development community employ to help improve the quality of software.
-
-## Software quality
-* Maintainability
-* Dependability
-* Efficiency
-* Usability
-
-## Sir Charles Antony Richard Hoare's Software quality
 * Clear definition of purpose.
 * Simplicity of use.
 * Ruggedness (difficult to misuse, kind to errors).
