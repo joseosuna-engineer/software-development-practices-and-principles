@@ -8,6 +8,10 @@ From [firstcontributions](https://github.com/firstcontributions/first-contributi
 
 ### README.md
 This is the index, like a Table of Contents.
+Add you index into the Table of Contents just 2 lines before the line separator before "How to contribute to this project" section
+```
+-----------------------------------------
+```
 You need to add:
 * The Title in H2 format or double Hashtag.
 * An image that represents the content you want to add. Upload the image inside resources/images folder. Reference that images using html img tag and relative reference
