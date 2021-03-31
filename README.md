@@ -40,9 +40,9 @@ Why good commit messages matter? If you browse the log of any random Git reposit
 
 [Scrum](resources/docs/SCRUM.md) is a framework utilizing an agile mindset for developing, delivering, and sustaining complex products.
 
-## XP Principles
+## YAGNI
 
-The principles that form the basis of [XP](resources/docs/XP.md) are based on the values just described and are intended to foster decisions in a system development project. The principles are intended to be more concrete than the values and more easily translated to guidance in a practical situation. 
+[You aren't gonna need it (YAGNI)](resources/docs/YAGNI.md) is a principle of extreme programming (XP) that states a programmer should not add functionality until deemed necessary.
 
 ## Principles of Software Engineering - University of Minnesota
 
