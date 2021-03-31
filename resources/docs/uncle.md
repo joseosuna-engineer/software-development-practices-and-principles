@@ -1,8 +1,7 @@
 # Design Principles and Design Patterns
 **By Robert C. Martin**
-From [Universitat Automoma de Barcelona](http://www.cvc.uab.es/shared/teach/a21291/temes/object_oriented_design/materials_adicionals/principles_and_patterns.pdf)
-From [digitalocean](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
-From [Principles Wiki](http://principles-wiki.net/collections:robert_c._martin_s_principle_collection)
+
+From [Universitat Automoma de Barcelona](http://www.cvc.uab.es/shared/teach/a21291/temes/object_oriented_design/materials_adicionals/principles_and_patterns.pdf), [digitalocean](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design), [Principles Wiki](http://principles-wiki.net/collections:robert_c._martin_s_principle_collection)
 
 ## SOLID
 
