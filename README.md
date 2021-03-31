@@ -40,10 +40,6 @@ Why good commit messages matter? If you browse the log of any random Git reposit
 
 [Scrum](resources/docs/SCRUM.md) is a framework utilizing an agile mindset for developing, delivering, and sustaining complex products.
 
-## YAGNI
-
-[You aren't gonna need it (YAGNI)](resources/docs/YAGNI.md) is a principle of extreme programming (XP) that states a programmer should not add functionality until deemed necessary.
-
 ## Principles of Software Engineering - University of Minnesota
 
 [Principles of Software Engineering](resources/docs/umn.md) by University of Minnesota.
