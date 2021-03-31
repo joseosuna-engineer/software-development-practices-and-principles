@@ -1,6 +1,14 @@
 # The Twelve Factors
 
-extracted from https://12factor.net
+
+<img src="..//images/12-fact.PNG" align="left"  width="200" />
+
+The [twelve-factor](resources/docs/12factor.md) methodology can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc). <br />
+
+From https://12factor.net
+
+
+
 
 **I. Codebase** <br />
 One codebase tracked in revision control, many deploys <br />
