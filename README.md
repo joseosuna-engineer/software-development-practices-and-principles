@@ -64,7 +64,7 @@ In its general form, the **LoD** is a specific case of loose coupling. The guide
 
 **Scrum** is a feedback-driven empirical approach which is, like all empirical process control, underpinned by the three pillars of transparency, inspection, and adaptation. 
 
-All work within the **Scrum framework** should be visible to those responsible for the outcome: the process, the workflow, progress, etc.
+All work within the **Scrum framework** should be visible to those responsible for the outcome: the process, the workflow, progress, etc. <br /> <br /> <br />
 
 ## Principles of Software Engineering - University of Minnesota
 
