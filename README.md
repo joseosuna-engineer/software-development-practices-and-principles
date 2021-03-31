@@ -34,7 +34,7 @@ The **SOLID** principles can also form a core philosophy for methodologies such 
 
 <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" align="left"  width="200" />
 
-Why **good commit messages** matter? If you browse the log of any random Git repository, you will probably find its **commit messages** are more or less a mess. A **well-crafted Git commit message** is the best way to communicate context about a change to fellow developers (and indeed to their future selves). Check [Git Commit Formatting Rules](resources/docs/commit.md).
+[Git Commit Formatting Rules](resources/docs/commit.md): Why **good commit messages** matter? If you browse the log of any random Git repository, you will probably find its **commit messages** are more or less a mess. A **well-crafted Git commit message** is the best way to communicate context about a change to fellow developers (and indeed to their future selves).
 
 ## Don't repeat yourself (DRY)
 
@@ -64,9 +64,7 @@ In its general form, the **LoD** is a specific case of loose coupling. The guide
 
 **Scrum** is a feedback-driven empirical approach which is, like all empirical process control, underpinned by the three pillars of transparency, inspection, and adaptation. 
 
-All work within the **Scrum framework** should be visible to those responsible for the outcome: the process, the workflow, progress, etc. 
-
-In order to make these things visible, Scrum teams need to frequently inspect the product being developed and how well the team is working. With frequent inspection, the team can spot when their work deviates outside of acceptable limits and adapt their process or the product under development.
+All work within the **Scrum framework** should be visible to those responsible for the outcome: the process, the workflow, progress, etc.
 
 ## Principles of Software Engineering - University of Minnesota
 
