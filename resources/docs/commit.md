@@ -44,10 +44,10 @@ Extracted from [Chris Beams](https://chris.beams.io/posts/git-commit) and [GitCo
 
 ### Body
 - Always leave the second line blank.
-- Further paragraphs come after blank lines.
+- Further paragraphs come after blank line.
 - Wrap the body at 72 characters.
 - Use the body to explain what and why instead of how.
-- Typically a hyphen is used for the bullet, preceded by a single space.
+- Typically a dash is used for the bullet, preceded by a single space and a capitalized word.
 
 ```
   commit d1674c5221ad87aa624a5029eb0c5db57b3eaf01
