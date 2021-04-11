@@ -1,7 +1,7 @@
 <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" align="right" width="300" />
 
 # Git Commit Formatting Rules
-> This is a guide to writte a Git commit message.
+> This is a guide to write a Git commit message.
 
 Extracted from [Chris Beams](https://chris.beams.io/posts/git-commit) and [GitCommitMessages](https://wiki.openstack.org/wiki/GitCommitMessages)
 
