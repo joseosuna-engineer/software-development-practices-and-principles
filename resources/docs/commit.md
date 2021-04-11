@@ -15,8 +15,9 @@ Extracted from [Chris Beams](https://chris.beams.io/posts/git-commit) and [GitCo
 
     This is the Git commit message subject
 
-     - This is a Git commit message body line
-     - This is other Git commit message body line
+     - This is a Git commit message body line.
+     
+     - This is other Git commit message body line.
 
 ```
 
@@ -48,6 +49,8 @@ Extracted from [Chris Beams](https://chris.beams.io/posts/git-commit) and [GitCo
 - Wrap the body at 72 characters.
 - Use the body to explain what and why instead of how.
 - Typically a dash is used for the bullet, preceded by a single space and a capitalized word.
+- End each line with a period.
+- Always leave a blank line between list lines.
 
 ```
   commit d1674c5221ad87aa624a5029eb0c5db57b3eaf01
@@ -81,9 +84,15 @@ Extracted from [Chris Beams](https://chris.beams.io/posts/git-commit) and [GitCo
 ```
 git commit -m "This is the Git commit message subject" -m "
 - This is a Git commit message body line in the third line, second line is in blank. 
+
+- One blank line between list lines.
+
 - Add a subject to your commit message after -m enclosed in quotes, then add the body of your commit message after a second -m.
+
 - Press ENTER before closing the quotes to add a line break.
+
 - Repeat as needed.
+
 - Then close the quotes and hit ENTER twice to apply the commit."
 ```
 
