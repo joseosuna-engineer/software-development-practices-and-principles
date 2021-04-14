@@ -5,6 +5,8 @@
 
 Extracted from [Chris Beams](https://chris.beams.io/posts/git-commit) and [GitCommitMessages](https://wiki.openstack.org/wiki/GitCommitMessages)
 
+Why **good commit messages** matter? If you browse the log of any random Git repository, you will probably find its **commit messages** are more or less a mess. A **well-crafted Git commit message** is the best way to communicate context about a change to fellow developers (and indeed to their future selves).<br /> 
+
 ## Git commit message
 > Build a subject / body Git commit message.
 

@@ -2,6 +2,10 @@
 
 extracted from [UMN](https://www.d.umn.edu/~gshute/softeng/principles.html)
 
+<img src="../images/Umn.png" align="center"  width="200" />
+
+ 
+
 * Separation of Concerns 
 * Modularity 
 * Abstraction 
