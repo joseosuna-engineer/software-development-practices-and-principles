@@ -2,6 +2,8 @@
 
 extracted from [wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
 
+<img src="../images/KISS.PNG" align="left"  width="200" />
+
 **KISS**, an acronym for **keep it super simple**, is a design principle noted by the U.S. Navy in 1960.
 
 The KISS principle states that most systems work best if they are kept simple rather than made complicated; therefore, simplicity should be a key goal in design, and unnecessary complexity should be avoided. 
